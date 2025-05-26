@@ -6,7 +6,7 @@
     display: flex;
     align-items: center;
     justify-content: center;">
-   <img src="" />
+   <img src="https://github.com/pushpsenairekar2911/Github-demo/blob/main/Assets/screenshots.png" />
 </div>
 
 <br></br>
