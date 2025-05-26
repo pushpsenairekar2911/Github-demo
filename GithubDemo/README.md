@@ -1,15 +1,4 @@
-
-
 # GitHub-Demo iOS App
-<br></br>
-<div style="
-    display: flex;
-    align-items: center;
-    justify-content: center;">
-   <img src="" />
-</div>
-
-<br></br>
 
 This project contains the source code for the GitHub-Demo iOS app. It demonstrates fetching and displaying GitHub user data and repositories using a modular, scalable architecture. The app is built using Swift and SwiftUI.
 
@@ -85,17 +74,3 @@ To run tests:
 The GitHub-Demo iOS app demonstrates clean architectural principles using SwiftUI and modern iOS development patterns. It is built for extensibility and serves as a solid foundation for larger production-grade applications.
 
 For feedback or contributions, please open an issue or submit a pull request.
-
-
-## Design Files
-
-If you want to see the deign files for this app then [click here](https://sketch.com/s/dc3a06ea-cd79-4e74-af19-56e1bd653da3)
-
------
-
-
-## Demo 
-
-If you want to see the actual working of the application then [click here.]()
-
------
