@@ -60,6 +60,7 @@ The app uses **Model-View-ViewModel-Router (MVVM-R)** architecture, designed for
 
 1. Open the project in Xcode.
 2. Make sure the scheme `Github-Demo` is selected.
+3. Open `Secrets.plist` file and replace github access token provided in the email. 
 3. Choose a simulator of your choice.
 4. Build and run the app using the play button or `Cmd + R`.
 
